@@ -1,0 +1,1 @@
+ C:\\Users\\Predator\\Documents\\flutter\ projects\\ecommerce_project-main\\.dart_tool\\flutter_build\\b931c46fad21543ad369e1736255348e\\native_assets.yaml: 
